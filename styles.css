@@ -1,0 +1,26 @@
+/* Este es un comentario en CSS*/
+/*Selector universal. Selecciona todos los elementos*/
+*{
+    background-color: rgb(249, 219, 244);
+}
+/*Selectores de tipo specifico*/
+h1, h2{
+    font-family: 'Lato', sans-serif;
+
+}
+
+#pp-foto{
+    width: 100%;
+height: auto;
+}
+/*
+body{
+    background-color: cornflowerblue;
+}
+
+p{ 
+    color: brown; 
+}
+*/
+
+
