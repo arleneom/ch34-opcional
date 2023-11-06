@@ -1,4 +1,3 @@
-
 Una foto que te guste mucho.
 Una sección con una breve biografía tuya.
 Una sección donde hables de tu mayor logro (académico, profesional, personal).
